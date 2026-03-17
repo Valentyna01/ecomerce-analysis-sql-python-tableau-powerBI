@@ -5,7 +5,7 @@ Comprehensive analysis of online store sales data to evaluate business health, c
 
 ## 🛠 Tech Stack
 * **SQL:** Data extraction, joining multiple sources, and pre-processing.
-* **Python (Pandas, SciPy):** Statistical analysis, Pearson correlation, and conversion rate validation.
+* **Python (Pandas, SciPy):** [Statistical analysis and hypothesis testing](e_commerce_and_statistical_analysis.ipynb)
 * **Tableau & Power BI:** Interactive dashboards for business stakeholders.
 
 ## 📈 Key Insights
